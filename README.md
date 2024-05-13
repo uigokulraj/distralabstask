@@ -1,7 +1,5 @@
 # Distra Labs Task
 
-The ideal tool for video makers, DistraClip provides a dynamic and user-friendly editing environment. DistraClip's robust capabilities and easy-to-use interface enable users to simply turn unprocessed video into compelling narratives. Regardless of your level of experience creating material, DistraClip offers an abundance of tools and effects to help you realize your ideas. DistraClip makes sure that every frame effectively and precisely delivers your tale, from exact timeline editing to gorgeous visual effects and transitions. Use DistraClip to let your imagination run wild and create stunning films that enthrall and motivate viewers.
-
 ## Figma URL
 https://www.figma.com/file/yD3XSSKQIDF1mE7tyjBQEm/Distra-Labs-Task?type=design&node-id=0%3A1&mode=design&t=d3hYjaiRI1LLoMiV-1
 
